@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Council Elections
 //
-//  Created by Shafin Chaudhri on 2/9/24.
+//  Created by Shafin Chaudhri on 2/9/24. REHEHEHA
 //
 import SwiftUI
 import FirebaseCore
